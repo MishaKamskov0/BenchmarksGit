@@ -2,4 +2,7 @@
     <string name="app_name">BenchmarksGit</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="please_enter_collection_size_message">Please enter collection size and number of elements to compare</string>
+    <string name="error_message">Error.You need enter elements count.</string>
 </resources>
